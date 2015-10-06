@@ -1,0 +1,19 @@
+{
+  "name": "secret_sauce",
+  "version": "1.0.0",
+  "description": "Transmit encypted messages client-side!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottmacphersonmusic/secret_sauce.git"
+  },
+  "author": "Scott Macpherson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottmacphersonmusic/secret_sauce/issues"
+  },
+  "homepage": "https://github.com/scottmacphersonmusic/secret_sauce#readme"
+}

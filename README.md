@@ -13,7 +13,8 @@ Enter a message of your choosing in the text field and then click the "Lock Down
 
 You will be prompted to enter a password/phrase. Once submitted, the message will be encrypted and the text field will display instructions for decoding the message.
 
-Enter the given URL in your browser's address bar and click the "Decrypt" button.  You will be prompted to enter the password/phrase.  If you enter the right password the secret message will be revealed to you in an alert pop-up, otherwise you will see an alert pop-up telling you the password was wrong.
+Enter the given URL in your browser's address bar, and once the page
+has loaded and click the "Decrypt" button.  You will be prompted to enter the password/phrase.  If you enter the right password the secret message will be revealed to you in an alert pop-up, otherwise you will see an alert pop-up telling you the password was wrong.
 
 ### Contributing
 1. Fork It

@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/scottmacphersonmusic/secret_sauce/issues"
   },
-  "homepage": "https://github.com/scottmacphersonmusic/secret_sauce#readme"
+  "homepage": "https://github.com/scottmacphersonmusic/secret_sauce#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
 }
